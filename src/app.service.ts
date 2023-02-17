@@ -1,6 +1,5 @@
 import { Injectable } from '@nestjs/common';
-import './config/credentials.json';
-import './config/token.json';
+// import cred
 
 @Injectable()
 export class AppService {

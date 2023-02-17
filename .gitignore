@@ -1,8 +1,7 @@
 # compiled output
 /dist
 /node_modules
-/src/config/credentials.json
-/src/config/token.json
+/src/config/cred
 vercel.json
 .env
 
