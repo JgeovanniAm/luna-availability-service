@@ -1,0 +1,135 @@
+{
+  "#1": {
+    "name": "Room #1",
+    "max-persons": 2,
+    "bed-L": {
+      "count": 1,
+      "mezanine": false,
+      "private-room": false
+    },
+    "bed-S": 0,
+    "bathroom-private": true,
+    "terrace-dnd-hammock": true,
+    "mini-refrigerator": true,
+    "air-Conditioner": false,
+    "fan": true,
+    "price": null
+  },
+  "#2": {
+    "name": "Room #2",
+    "max-persons": 3,
+    "bed-L": {
+      "count": 1,
+      "mezanine": false,
+      "private-room": false
+    },
+    "bed-S": 1,
+    "bathroom-private": true,
+    "terrace-dnd-hammock": true,
+    "mini-refrigerator": true,
+    "air-Conditioner": false,
+    "fan": true,
+    "price": null
+  },
+  "#3": {
+    "name": "Room #3",
+    "max-persons": 2,
+    "bed-L": {
+      "count": 1,
+      "mezanine": false,
+      "private-room": false
+    },
+    "bed-S": 0,
+    "bathroom-private": true,
+    "terrace-dnd-hammock": true,
+    "mini-refrigerator": true,
+    "air-Conditioner": false,
+    "fan": true,
+    "price": null
+  },
+  "#4": {
+    "name": "Bungalow #4",
+    "max-persons": 4,
+    "bed-L": {
+      "count": 1,
+      "mezanine": true,
+      "private-room": false
+    },
+    "bed-S": 2,
+    "bathroom-private": true,
+    "terrace-dnd-hammock": true,
+    "mini-refrigerator": false,
+    "air-Conditioner": false,
+    "kitchen": true,
+    "fan": true,
+    "price": null
+  },
+  "#5": {
+    "name": "Bungalow #5",
+    "max-persons": 2,
+    "bed-L": {
+      "count": 1,
+      "mezanine": false,
+      "private-room": false
+    },
+    "bed-S": 0,
+    "bathroom-private": true,
+    "terrace-dnd-hammock": true,
+    "mini-refrigerator": false,
+    "air-Conditioner": false,
+    "kitchen": true,
+    "fan": true,
+    "price": null
+  },
+  "#6": {
+    "name": "Bungalow #6",
+    "max-persons": 4,
+    "bed-L": {
+      "count": 1,
+      "mezanine": false,
+      "private-room": true
+    },
+    "bed-S": 2,
+    "bathroom-private": true,
+    "terrace-dnd-hammock": true,
+    "mini-refrigerator": false,
+    "air-Conditioner": false,
+    "kitchen": true,
+    "fan": true,
+    "price": null
+  },
+  "#7": {
+    "name": "Bungalow #7",
+    "max-persons": 3,
+    "bed-L": {
+      "count": 1,
+      "mezanine": false,
+      "private-room": false
+    },
+    "bed-S": 1,
+    "bathroom-private": true,
+    "terrace-dnd-hammock": true,
+    "mini-refrigerator": false,
+    "air-Conditioner": true,
+    "kitchen": true,
+    "fan": true,
+    "price": null
+  },
+  "#8": {
+    "name": "Bungalow #8",
+    "max-persons": 2,
+    "bed-L": {
+      "count": 1,
+      "mezanine": false,
+      "private-room": false
+    },
+    "bed-S": 0,
+    "bathroom-private": true,
+    "terrace-dnd-hammock": true,
+    "mini-refrigerator": false,
+    "air-Conditioner": false,
+    "fan": true,
+    "kitchen": true,
+    "price": null
+  }
+}
