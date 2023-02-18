@@ -13,7 +13,47 @@
     "mini-refrigerator": true,
     "air-Conditioner": false,
     "fan": true,
-    "price": null
+    "price": {
+      "jan": {
+        "high": {
+          "startDay": 1,
+          "endDay": 5,
+          "$": 135
+        },
+        "low": {
+          "$": 105
+        }
+      },
+      "fed": 105,
+      "mar": 105,
+      "apr": {
+        "high": {
+          "startDay": 2,
+          "endDay": 8,
+          "$": 135
+        },
+        "low": {
+          "$": 105
+        }
+      },
+      "may": 78,
+      "jun": 78,
+      "jul": 90,
+      "agust": 90,
+      "sep": 78,
+      "oct": 78,
+      "nov": 90,
+      "dec": {
+        "high": {
+          "startDay": 23,
+          "endDay": 31,
+          "$": 135
+        },
+        "low": {
+          "$": 90
+        }
+      }
+    }
   },
   "#2": {
     "name": "Room #2",
@@ -29,7 +69,47 @@
     "mini-refrigerator": true,
     "air-Conditioner": false,
     "fan": true,
-    "price": null
+    "price": {
+      "jan": {
+        "high": {
+          "startDay": 1,
+          "endDay": 5,
+          "$": 145
+        },
+        "low": {
+          "$": 115
+        }
+      },
+      "fed": 115,
+      "mar": 115,
+      "apr": {
+        "high": {
+          "startDay": 2,
+          "endDay": 8,
+          "$": 145
+        },
+        "low": {
+          "$": 115
+        }
+      },
+      "may": 85,
+      "jun": 85,
+      "jul": 100,
+      "agust": 100,
+      "sep": 85,
+      "oct": 85,
+      "nov": 100,
+      "dec": {
+        "high": {
+          "startDay": 23,
+          "endDay": 31,
+          "$": 145
+        },
+        "low": {
+          "$": 100
+        }
+      }
+    }
   },
   "#3": {
     "name": "Room #3",
@@ -45,7 +125,47 @@
     "mini-refrigerator": true,
     "air-Conditioner": false,
     "fan": true,
-    "price": null
+    "price": {
+      "jan": {
+        "high": {
+          "startDay": 1,
+          "endDay": 5,
+          "$": 135
+        },
+        "low": {
+          "$": 105
+        }
+      },
+      "fed": 105,
+      "mar": 105,
+      "apr": {
+        "high": {
+          "startDay": 2,
+          "endDay": 8,
+          "$": 135
+        },
+        "low": {
+          "$": 105
+        }
+      },
+      "may": 78,
+      "jun": 78,
+      "jul": 90,
+      "agust": 90,
+      "sep": 78,
+      "oct": 78,
+      "nov": 90,
+      "dec": {
+        "high": {
+          "startDay": 23,
+          "endDay": 31,
+          "$": 135
+        },
+        "low": {
+          "$": 90
+        }
+      }
+    }
   },
   "#4": {
     "name": "Bungalow #4",
@@ -62,7 +182,47 @@
     "air-Conditioner": false,
     "kitchen": true,
     "fan": true,
-    "price": null
+    "price": {
+      "jan": {
+        "high": {
+          "startDay": 1,
+          "endDay": 5,
+          "$": 200
+        },
+        "low": {
+          "$": 150
+        }
+      },
+      "fed": 150,
+      "mar": 150,
+      "apr": {
+        "high": {
+          "startDay": 2,
+          "endDay": 8,
+          "$": 200
+        },
+        "low": {
+          "$": 150
+        }
+      },
+      "may": 98,
+      "jun": 98,
+      "jul": 118,
+      "agust": 118,
+      "sep": 98,
+      "oct": 98,
+      "nov": 118,
+      "dec": {
+        "high": {
+          "startDay": 23,
+          "endDay": 31,
+          "$": 200
+        },
+        "low": {
+          "$": 118
+        }
+      }
+    }
   },
   "#5": {
     "name": "Bungalow #5",
@@ -79,7 +239,47 @@
     "air-Conditioner": false,
     "kitchen": true,
     "fan": true,
-    "price": null
+    "price": {
+      "jan": {
+        "high": {
+          "startDay": 1,
+          "endDay": 5,
+          "$": 185
+        },
+        "low": {
+          "$": 130
+        }
+      },
+      "fed": 130,
+      "mar": 130,
+      "apr": {
+        "high": {
+          "startDay": 2,
+          "endDay": 8,
+          "$": 185
+        },
+        "low": {
+          "$": 130
+        }
+      },
+      "may": 90,
+      "jun": 90,
+      "jul": 114,
+      "agust": 114,
+      "sep": 90,
+      "oct": 90,
+      "nov": 114,
+      "dec": {
+        "high": {
+          "startDay": 23,
+          "endDay": 31,
+          "$": 185
+        },
+        "low": {
+          "$": 114
+        }
+      }
+    }
   },
   "#6": {
     "name": "Bungalow #6",
@@ -96,7 +296,47 @@
     "air-Conditioner": false,
     "kitchen": true,
     "fan": true,
-    "price": null
+    "price": {
+      "jan": {
+        "high": {
+          "startDay": 1,
+          "endDay": 5,
+          "$": 200
+        },
+        "low": {
+          "$": 150
+        }
+      },
+      "fed": 150,
+      "mar": 150,
+      "apr": {
+        "high": {
+          "startDay": 2,
+          "endDay": 8,
+          "$": 200
+        },
+        "low": {
+          "$": 150
+        }
+      },
+      "may": 98,
+      "jun": 98,
+      "jul": 118,
+      "agust": 118,
+      "sep": 98,
+      "oct": 98,
+      "nov": 118,
+      "dec": {
+        "high": {
+          "startDay": 23,
+          "endDay": 31,
+          "$": 200
+        },
+        "low": {
+          "$": 118
+        }
+      }
+    }
   },
   "#7": {
     "name": "Bungalow #7",
@@ -113,7 +353,47 @@
     "air-Conditioner": true,
     "kitchen": true,
     "fan": true,
-    "price": null
+    "price": {
+      "jan": {
+        "high": {
+          "startDay": 1,
+          "endDay": 5,
+          "$": 250
+        },
+        "low": {
+          "$": 190
+        }
+      },
+      "fed": 190,
+      "mar": 190,
+      "apr": {
+        "high": {
+          "startDay": 2,
+          "endDay": 8,
+          "$": 250
+        },
+        "low": {
+          "$": 190
+        }
+      },
+      "may": 130,
+      "jun": 130,
+      "jul": 150,
+      "agust": 150,
+      "sep": 130,
+      "oct": 130,
+      "nov": 150,
+      "dec": {
+        "high": {
+          "startDay": 23,
+          "endDay": 31,
+          "$": 250
+        },
+        "low": {
+          "$": 150
+        }
+      }
+    }
   },
   "#8": {
     "name": "Bungalow #8",
@@ -130,6 +410,46 @@
     "air-Conditioner": false,
     "fan": true,
     "kitchen": true,
-    "price": null
+    "price": {
+      "jan": {
+        "high": {
+          "startDay": 1,
+          "endDay": 5,
+          "$": 240
+        },
+        "low": {
+          "$": 180
+        }
+      },
+      "fed": 180,
+      "mar": 180,
+      "apr": {
+        "high": {
+          "startDay": 2,
+          "endDay": 8,
+          "$": 240
+        },
+        "low": {
+          "$": 180
+        }
+      },
+      "may": 130,
+      "jun": 130,
+      "jul": 138,
+      "agust": 138,
+      "sep": 130,
+      "oct": 130,
+      "nov": 138,
+      "dec": {
+        "high": {
+          "startDay": 23,
+          "endDay": 31,
+          "$": 240
+        },
+        "low": {
+          "$": 138
+        }
+      }
+    }
   }
 }
