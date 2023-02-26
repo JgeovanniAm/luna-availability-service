@@ -4,7 +4,7 @@ import {
   IbodyAvailabilityService,
   IReqBodyEvents,
   IRooms,
-} from 'src/config/const';
+} from 'src/config/interface';
 
 import data from '../data/hotel.json';
 

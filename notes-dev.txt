@@ -1,4 +1,3 @@
 Reminder: Before running project...
 - source $(brew --prefix nvm)/nvm.sh
 - nvm use 16
-- build process: import cred and update host.jsom

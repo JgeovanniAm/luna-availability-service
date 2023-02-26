@@ -1,7 +1,7 @@
 import { BadRequestException, Body, Controller, Post } from '@nestjs/common';
 import { AuthGoogleService } from 'src/auth/auth.service';
 import { AvailabilityService } from 'src/availability/availability.service';
-import { IReqBodyEvents, IRooms } from 'src/config/const';
+import { IReqBodyEvents, IRooms } from 'src/config/interface';
 
 @Controller('availability')
 export class AvailabilityController {

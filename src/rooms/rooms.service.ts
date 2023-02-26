@@ -1,5 +1,5 @@
 import { Injectable } from '@nestjs/common';
-import { IRooms } from 'src/config/const';
+import { IRooms } from 'src/config/interface';
 
 import data from '../data/hotel.json';
 
